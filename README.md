@@ -27,6 +27,8 @@ Git, GitHub, Excel, Jupyter Notebooks
 ---
 
 
+
+
 ## 📄 My Resume
 [![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://github.com/vaibhavverma200421/vaibhavverma200421/blob/main/Vaibhav_Verma_Resume.pdf)
 
@@ -46,26 +48,29 @@ Short description: *An end-to-end data analytics project analyzing credit card t
 
 ### 📊 **IMDB-DATASET-ANALYSIS**
 Short description: *This project analyzes and visualizes IMDB movie data using Python.It covers data cleaning, exploration, and answering key analytical questions with visual insights.*  
-🔗 **[IMDB Dataset Analysis] (https://github.com/vaibhavverma200421/IMDB-DATASET-ANALYSIS)**
 
-
+🔗 **[IMDB Dataset Analysis](https://github.com/vaibhavverma200421/IMDB-DATASET-ANALYSIS)**
 ---
+
+
 
 ### 📈 **MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI-**
 Short description:  *SQL based analytics queries and dashboard preparation*  
-🔗 **[MADHAV-ECOMMERCE-SALES-DASHBOARD] (https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI-)**
 
+🔗 **[MADHAV-ECOMMERCE-SALES-DASHBOARD](https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI)**
 ---
+
 
 ### 📉 **Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting**
 Short description: *Power BI dashboard with interactive visuals and forecasting*  
-🔗**[Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting] (https://github.com/vaibhavverma200421/Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting)**
 
+🔗**[Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting] (https://github.com/vaibhavverma200421/Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting)**
 ---
 
 
 
 ## 🛠️ Languages & Tools
+
 ## 📊 Data Analytics Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
