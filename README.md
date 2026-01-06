@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Vaibhav Verma
+<h1>👋 Hi, I'm <b>Vaibhav Verma</b></h1>
+<h2>📊 Aspiring Data Analyst</h2>
+<h3>Python • SQL • Power BI • Data Visualization</h3>
 
-### 📊 Aspiring Data Analyst | Python • SQL • Data Visualization
-
-I'm passionate about turning data into insights and building analytics solutions that help solve real business problems.
+<p>I specialize in transforming raw data into meaningful insights through analytics, visualization, and SQL-based reporting. I enjoy building real-world projects that help solve business problems and support data-driven decision-making.</p>
 
 ---
 
