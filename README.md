@@ -95,7 +95,7 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 🔗 LinkedIn: https://linkedin.com/in/your-profile 
 
-🔗 https://www.instagram.com/hey_vaibxav/?next=%2F
+🔗 Instagram: https://www.instagram.com/hey_vaibxav/?next=%2F
 
 🌐 Portfolio : *https://vaibhavverma200421.github.io/My---Portfolio/*
 
