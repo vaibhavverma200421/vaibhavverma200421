@@ -27,6 +27,13 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 ## 📌 Featured Projects
 
+
+### 📊 **Credit Card Transaction Report using BI & sql**
+Short description: *An end-to-end data analytics project analyzing credit card transactions and customer behavior using SQL-based data transformation and interactive dashboards to derive business insights on revenue, spending patterns, and customer segmentation.*
+🔗 **[Credit Card Transaction Report using BI & sql](https://github.com/vaibhavverma200421/Credit-Card-Financial-Dashboard-using-SQL-BI)**
+
+
+
 ### 📊 **IMDB-DATASET-ANALYSIS**
 Short description: *This project analyzes and visualizes IMDB movie data using Python.It covers data cleaning, exploration, and answering key analytical questions with visual insights.*  
 🔗 **[IMDB Dataset Analysis] (https://github.com/vaibhavverma200421/IMDB-DATASET-ANALYSIS)**
