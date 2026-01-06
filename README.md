@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Vaibhav Verma
+
 ### 📊 Aspiring Data Analyst | Python • SQL • Data Visualization
 
 I'm passionate about turning data into insights and building analytics solutions that help solve real business problems.
@@ -24,6 +25,14 @@ Git, GitHub, Excel, Jupyter Notebooks
 - Building dashboards and visualizations
 
 ---
+
+
+## 📄 My Resume
+
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](file:///D:/Vaibhav_Verma_Resume.pdf)
+
+
+
 
 ## 📌 Featured Projects
 
@@ -52,12 +61,6 @@ Short description: *Power BI dashboard with interactive visuals and forecasting*
 🔗**[Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting] (https://github.com/vaibhavverma200421/Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting)**
 
 ---
-
-
-
-## 📊 GitHub Stats
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavverma200421&show_icons=true&theme=tokyonight)
 
 
 
