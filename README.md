@@ -59,7 +59,7 @@ Short description: *Power BI dashboard with interactive visuals and forecasting*
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavverma200421&show_icons=true&theme=tokyonight)
 
-## 📊 Most Used Languages
+
 
 ## 🛠️ Languages & Tools
 ## 📊 Data Analytics Stack
