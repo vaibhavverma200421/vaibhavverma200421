@@ -30,42 +30,37 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 
 ## 📄 My Resume
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://github.com/vaibhavverma200421/vaibhavverma200421/blob/main/Vaibhav_Verma_Resume.pdf)
-
-
-
+   [![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://github.com/vaibhavverma200421/vaibhavverma200421/blob/main/Vaibhav_Verma_Resume.pdf)
 
 
 
 ## 📌 Featured Projects
 
+### 💳 Credit Card Transaction Report (Power BI & SQL)
+**Description:** End-to-end analytics on credit card transactions, customer behavior, and revenue insights.  
+🔗 **Project Link:** https://github.com/vaibhavverma200421/Credit-Card-Financial-Dashboard-using-SQL-BI
 
-### 📊 **Credit Card Transaction Report using BI & sql**
-Short description: *An end-to-end data analytics project analyzing credit card transactions and customer behavior using SQL-based data transformation and interactive dashboards to derive business insights on revenue, spending patterns, and customer segmentation.*
-🔗 **[Credit Card Transaction Report using BI & sql](https://github.com/vaibhavverma200421/Credit-Card-Financial-Dashboard-using-SQL-BI)**
-
-
-
-### 📊 **IMDB-DATASET-ANALYSIS**
-Short description: *This project analyzes and visualizes IMDB movie data using Python.It covers data cleaning, exploration, and answering key analytical questions with visual insights.*  
-
-🔗 **[IMDB Dataset Analysis](https://github.com/vaibhavverma200421/IMDB-DATASET-ANALYSIS)**
 ---
 
+### 🎬 IMDB Dataset Analysis (Python)
+**Description:** Data cleaning, EDA, and visualization of IMDB movie data to answer key analytical questions.  
+🔗 **Project Link:** https://github.com/vaibhavverma200421/IMDB-Dataset-Analysis
 
-
-### 📈 **MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI-**
-Short description:  *SQL based analytics queries and dashboard preparation*  
-
-🔗 **[MADHAV-ECOMMERCE-SALES-DASHBOARD](https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI)**
 ---
 
+### 📦 Madhav E-Commerce Sales Dashboard (Power BI)
+**Description:** SQL-based analytics and interactive dashboard for sales performance.  
+🔗 **Project Link:** https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD
 
-### 📉 **Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting**
-Short description: *Power BI dashboard with interactive visuals and forecasting*  
-
-🔗**[Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting] (https://github.com/vaibhavverma200421/Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting)**
 ---
+
+### 🛒 Super Store Sales Forecasting (Power BI)
+**Description:** Interactive dashboard with forecasting and advanced visuals.  
+🔗 **Project Link:** https://github.com/vaibhavverma200421/Super-Store-advanced-e-commerce-dashboard-and-sales-forecasting
+
+
+
+
 
 
 
