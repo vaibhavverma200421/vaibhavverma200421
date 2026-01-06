@@ -46,17 +46,27 @@ Short description: *Power BI dashboard with interactive visuals and forecasting*
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavverma200421&show_icons=true&theme=dark)
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavverma200421&show_icons=true&theme=tokyonight)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavverma200421&layout=compact&theme=tokyonight)
+
 
 ---
 
 ## 📫 How to Reach Me
 
 📧 Email: *vaibhavvermaaa123@gmail.com*  
+
 🔗 LinkedIn: https://linkedin.com/in/your-profile 
+
 🔗 https://www.instagram.com/hey_vaibxav/?next=%2F
+
 🌐 Portfolio : *https://vaibhavverma200421.github.io/My---Portfolio/*
 
 ---
