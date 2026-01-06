@@ -28,20 +28,21 @@ Git, GitHub, Excel, Jupyter Notebooks
 ## 📌 Featured Projects
 
 ### 📊 **IMDB-DATASET-ANALYSIS**
-Short description: Example – *This project analyzes and visualizes IMDB movie data using Python.It covers data cleaning, exploration, and answering key analytical questions with visual insights.*  
-🔗 https://github.com/vaibhavverma200421/IMDB-DATASET-ANALYSIS
+Short description: *This project analyzes and visualizes IMDB movie data using Python.It covers data cleaning, exploration, and answering key analytical questions with visual insights.*  
+🔗 **[IMDB Dataset Analysis] (https://github.com/vaibhavverma200421/IMDB-DATASET-ANALYSIS)**
+
 
 ---
 
 ### 📈 **MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI-**
-Short description: Example – *SQL based analytics queries and dashboard preparation*  
-🔗 https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI-
+Short description:  *SQL based analytics queries and dashboard preparation*  
+🔗 **[MADHAV-ECOMMERCE-SALES-DASHBOARD] (https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD-POWER-BI-)**
 
 ---
 
 ### 📉 **Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting**
-Short description: Example – *Power BI dashboard with interactive visuals and forecasting*  
-🔗 https://github.com/vaibhavverma200421/Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting
+Short description: *Power BI dashboard with interactive visuals and forecasting*  
+🔗**[Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting] (https://github.com/vaibhavverma200421/Super-Store-advanced-e-ecommerce-dashboard-and-sales-forecasting)**
 
 ---
 
@@ -53,7 +54,7 @@ Short description: Example – *Power BI dashboard with interactive visuals and 
 
 ## 📫 How to Reach Me
 
-📧 Email: *your.email@example.com*  
+📧 Email: *vaibhavvermaaa123@gmail.com*  
 🔗 LinkedIn: https://linkedin.com/in/your-profile 
 🔗 https://www.instagram.com/hey_vaibxav/?next=%2F
 🌐 Portfolio : *https://vaibhavverma200421.github.io/My---Portfolio/*
