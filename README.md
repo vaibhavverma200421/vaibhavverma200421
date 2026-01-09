@@ -30,7 +30,7 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 
 ## 📄 My Resume
-   [![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://github.com/vaibhavverma200421/vaibhavverma200421/blob/main/Vaibhav verma  resume (ATS Friendly) updated on 9 jan 2026.pdf)
+   [![Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://github.com/vaibhavverma200421/vaibhavverma200421/blob/main/Vaibhav verma  Resume ATS Friedly.pdf)
 
 
 
