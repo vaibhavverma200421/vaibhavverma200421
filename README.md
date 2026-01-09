@@ -100,7 +100,7 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 🔗 Instagram: https://www.instagram.com/hey_vaibxav/?next=%2F
 
-🌐 Portfolio : *https://vaibhavverma200421.github.io/My---Portfolio/*
+🌐 Portfolio : *https://vaibhavverma200421.github.io/My-portfolio/*
 
 ---
 
