@@ -45,6 +45,11 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 ---
 
+### 🛒 Walmart Data Analysis end to end SQL & Python
+**Description:** This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
+🔗 **Project Link:** https://github.com/vaibhavverma200421/Walmart-Data-Analysis-End-To-End-SQL-Python
+
+
 ### 🎬 IMDB Dataset Analysis (Python)
 **Description:** Data cleaning, EDA, and visualization of IMDB movie data to answer key analytical questions.  
 🔗 **Project Link:** https://github.com/vaibhavverma200421/IMDB-Dataset-Analysis
