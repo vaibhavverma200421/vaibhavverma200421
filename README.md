@@ -31,7 +31,7 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 ## 📄 My Resume
   
-[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](./Vaibhav%20Verma%20Resume.pdf)
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-blue)](./My%20Resume.pdf)
 
 
 
