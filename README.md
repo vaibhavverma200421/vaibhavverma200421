@@ -2,7 +2,7 @@
 
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization
 
-Connect with my work: 🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) | 📄 [Download My Resume (PDF)](https://github.com/vaibhavverma200421/vaibhavverma200421/raw/main/My_Resume.pdf)
+Connect with my work: 🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) | 📄 [Download My Resume (PDF)](https://github.com/vaibhavverma200421/vaibhavverma200421/raw/main/My Resume.pdf)
 
 ⚡ Quick Summary
 
