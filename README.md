@@ -1,13 +1,14 @@
 👋 Hi, I'm Vaibhav Verma
+
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization
-Connect with my work: 🚀 View My Interactive Portfolio | 📄 Download My Resume (PDF)
+
+Connect with my work: 🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) | 📄 [Download My Resume (PDF)](https://github.com/vaibhavverma200421/vaibhavverma200421/raw/main/My_Resume.pdf)
 
 ⚡ Quick Summary
+
 I specialize in transforming raw data into meaningful insights. I enjoy building real-world projects that solve business problems and support data-driven decision-making.
 
-
-Recent Achievement: Completed a Data Analytics Job Simulation with Deloitte , focusing on Data Analysis and Forensic Technology.
-+3
+Recent Achievement: Completed a Data Analytics Job Simulation with Deloitte, focusing on Data Analysis and Forensic Technology. +3
 
 💼 Work Experience & Certifications
 Deloitte | Data Analytics Job Simulation
