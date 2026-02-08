@@ -2,7 +2,13 @@
 
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization
 
-Connect with my work: 🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) | 📄 [Download My Resume (PDF)](https://github.com/vaibhavverma200421/vaibhavverma200421/raw/main/My Resume.pdf)
+Connect with my work: 🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) | 📄 [Download My Resume (PDF)](https://github.com/vaibhavverma200421/vaibhavverma200421/raw/main/My%20Resume.pdf)
+
+⚡ Quick Summary
+
+I specialize in transforming raw data into meaningful insights. I enjoy building real-world projects that solve business problems and support data-driven decision-making.
+
+Recent Achievement: Completed a Data Analytics Job Simulation with Deloitte, focusing on Data Analysis and Forensic Technology. +3
 
 ⚡ Quick Summary
 
