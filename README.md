@@ -3,7 +3,8 @@
 📊 Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization
 
 Connect with my work: 
-🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) |
+🚀[![Portfolio](https://img.shields.io/badge/Portfolio-Interactive-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vaibhavverma200421.github.io/My-portfolio/)
+
 
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/vaibhavverma200421/vaibhavverma200421/main/My%20Resume%20%28%20Vaibhav%27s%20%29.pdf)
