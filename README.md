@@ -4,7 +4,8 @@
 
 Connect with my work: 
 🚀 [View My Interactive Portfolio](https://vaibhavverma200421.github.io/My-portfolio/) |
-📄 [Download My Resume](https://github.com/vaibhavverma200421/vaibhavverma200421/raw/main/My%20Resume%20%28Vaibhav%27s%29.pdf)
+📄 [Download My Resume](https://raw.githubusercontent.com/vaibhavverma200421/vaibhavverma200421/main/YourFileName.pdf)
+
 
 
 ⚡ Quick Summary
