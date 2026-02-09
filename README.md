@@ -11,13 +11,6 @@ Connect with my work:
 
 
 
-
-⚡ Quick Summary
-
-I specialize in transforming raw data into meaningful insights. I enjoy building real-world projects that solve business problems and support data-driven decision-making.
-
-Recent Achievement: Completed a Data Analytics Job Simulation with Deloitte, focusing on Data Analysis and Forensic Technology. +3
-
 ⚡ Quick Summary
 
 I specialize in transforming raw data into meaningful insights. I enjoy building real-world projects that solve business problems and support data-driven decision-making.
