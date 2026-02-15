@@ -77,9 +77,9 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 ---
 
-### 📦 Madhav E-Commerce Sales Dashboard (Power BI)
-**Description:** SQL-based analytics and interactive dashboard for sales performance.  
-🔗 **Project Link:** https://github.com/vaibhavverma200421/MADHAV-ECOMMERCE-SALES-DASHBOARD
+### 🏥 Healthcare Analytics Dashboard (Power BI)
+**Description:** Interactive analytics suite for healthcare operations, featuring revenue forecasting, patient flow insights, and strategic performance metrics to drive data-informed clinical and financial decisions.
+🔗 **Project Link:** https://github.com/vaibhavverma200421/Healthcare-Analytics-Dashboard
 
 ---
 
