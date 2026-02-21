@@ -6,8 +6,7 @@ Connect with my work:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Live-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://vaibhavverma200421.github.io/My-portfolio/)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/vaibhavverma200421/vaibhavverma200421/main/My%20Resume%20%28%20Vaibhav%27s%20%29.pdf)
-
+[![Resume](https://img.shields.io/badge/Resume-Download-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/vaibhavverma200421/YOUR_REPO_NAME/main/Vaibhav%20Verma%20Resume%20%5B21-02-2026%5D.pdf)
 
 
 
