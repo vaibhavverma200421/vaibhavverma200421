@@ -59,6 +59,12 @@ Git, GitHub, Excel, Jupyter Notebooks
 
 ## 📌 Featured Projects
 
+📦 Blinkit End-to-End Analytics (SQL, Python, Excel & Power BI)
+Description: A comprehensive retail analytics solution covering the full data pipeline—from raw data cleaning in PostgreSQL and EDA in Python to interactive business intelligence dashboards in Excel and Power BI. This project identifies key drivers for $1.2M in sales and provides granular insights into customer ratings and inventory distribution.
+🔗 Project Link: https://github.com/vaibhavverma200421/blinkit-end-to-end-analytics
+
+
+
 ### 💳 Credit Card Transaction Report (Power BI & SQL)
 **Description:** End-to-end analytics on credit card transactions, customer behavior, and revenue insights.  
 🔗 **Project Link:** https://github.com/vaibhavverma200421/Credit-Card-Financial-Dashboard-using-SQL-BI
