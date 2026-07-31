@@ -51,13 +51,13 @@ Git, GitHub, Excel, Jupyter Notebooks
 ---
 
 
-
-
-
-
-
-
 ## 📌 Featured Projects
+
+### 📈 Internshala Internship Data Analysis (End-to-End Project)
+**Description:** A complete end-to-end data pipeline — from web scraping Internshala internship listings using Python, to data cleaning & EDA in Pandas, querying in PostgreSQL, and building an interactive Power BI dashboard. Answers practical business questions around stipend trends, demand by role, and location-wise insights.
+🔗 **Project Link:** https://github.com/vaibhavverma200421/WEB-SCRAPED-INTERNSHALA-DATA-END-TO-END-PROJECT-
+
+---
 
 📦 Blinkit End-to-End Analytics (SQL, Python, Excel & Power BI)
 
@@ -93,10 +93,6 @@ Description: A comprehensive retail analytics solution covering the full data pi
 ### 🛒 Super Store Sales Forecasting (Power BI)
 **Description:** Interactive dashboard with forecasting and advanced visuals.  
 🔗 **Project Link:** https://github.com/vaibhavverma200421/Super-Store-advanced-e-commerce-dashboard-and-sales-forecasting
-
-
-
-
 
 
 
