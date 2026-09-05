@@ -63,7 +63,7 @@ I specialize in transforming raw data into meaningful insights, and I enjoy buil
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| 📈 **Internshala Internship Data Analysis** | End-to-end pipeline: scraping internship listings, cleaning & EDA, SQL querying, and a Power BI dashboard on stipend & demand trends | `Python` `PostgreSQL` `Power BI` | [View](https://github.com/vaibhavverma200421/WEB-SCRAPED-INTERNSHALA-DATA-END-TO-END-PROJECT-) |
+| 📈 **Internshala Internship web scraped Data Analysis** | End-to-end pipeline: scraping internship listings, cleaning & EDA, SQL querying, and a Power BI dashboard on stipend & demand trends | `Python` `PostgreSQL` `Power BI` | [View](https://github.com/vaibhavverma200421/WEB-SCRAPED-INTERNSHALA-DATA-END-TO-END-PROJECT-) |
 | 📦 **Blinkit End-to-End Analytics** | Full retail analytics pipeline — cleaning, EDA, and BI dashboards uncovering key drivers behind $1.2M in sales | `SQL` `Python` `Excel` `Power BI` | [View](https://github.com/vaibhavverma200421/blinkit-end-to-end-analytics) |
 | 💳 **Credit Card Transaction Report** | Analytics on transactions, customer behavior, and revenue insights | `SQL` `Power BI` | [View](https://github.com/vaibhavverma200421/Credit-Card-Financial-Dashboard-using-SQL-BI) |
 | 🛒 **Walmart Data Analysis** | End-to-end business insight extraction from sales data using Python & advanced SQL | `Python` `SQL` | [View](https://github.com/vaibhavverma200421/Walmart-Data-Analysis-End-To-End-SQL-Python) |
